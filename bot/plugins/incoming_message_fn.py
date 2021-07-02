@@ -46,13 +46,7 @@ async def incoming_start_message_f(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Localisation.START_TEXT,
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton('Support', url='https://telegram.me/share/url?url=**Syn%20-%20Video%20-%20Compressor**%20%0A%0AYou%20can%20Compress%20Telegram%20Videos%0A%0ACompress%20now%20-%20@Synvidcombot')
-                ]
-            ]
-        ),
+        
         reply_to_message_id=update.message_id,
     )
     
