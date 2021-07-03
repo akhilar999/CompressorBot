@@ -22,4 +22,3 @@ cancel - Bot will Cancel Last Process.
 
 ### Owner:
 * [Vivek Tomar](https://github.com/im-vivektomar)
-* [
