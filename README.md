@@ -22,3 +22,5 @@ cancel - Bot will Cancel Last Process.
 
 ### Owner:
 * [Vivek Tomar](https://github.com/im-vivektomar)
+
+- For FeedBack and Suggestions, please feel free to say in [Study Material Discussions](https://telegram.dog/study_material_discussions)
