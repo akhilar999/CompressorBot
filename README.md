@@ -1,14 +1,10 @@
 # VideoCompress
-A Telegram Video Compressor Bot By [@xgorn](https://t.me/xgorn). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [@im_vivek_tomar](https://t.me/im_vivek_tomar). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
-### Demo Bot:
-<a href="https://t.me/xvidcombot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Projects Channel:
-<a href="https://t.me/xTeamBots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `TG_BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
@@ -24,7 +20,6 @@ cancel - Bot will Cancel Last Process.
 ```
 
 
-### Credits:
-* [Jijinr](https://github.com/Jijinr)
-* [SpEcHide](https://github.com/spechide)
-* [AbirHasan2005](https://github.com/AbirHasan2005)
+### Owner:
+* [Vivek Tomar](https://github.com/im-vivektomar)
+* [
